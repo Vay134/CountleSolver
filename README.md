@@ -1,2 +1,2 @@
 # CountleSolver
-Program to solve Countle
+Python program to solve [Countle](https://www.countle.org/)
