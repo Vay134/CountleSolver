@@ -110,6 +110,7 @@ class CountleSolver:
                 continue
             if curr_output == self.target:
                 self.solutions.append(curr_output)
+                continue
             
             left_ind, right_ind, self._get_next_array(curr_inputs, left_ind, right_ind, curr_output)
 
